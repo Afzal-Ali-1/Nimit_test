@@ -1,2 +1,3 @@
 print("Hi Afzal")
-print("Hi Nimit")
+print("Hi NimiHit")
+print("Hi Sachin")
