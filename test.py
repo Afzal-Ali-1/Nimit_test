@@ -5,8 +5,13 @@ b=int(input("Enter your second number:"))
 def add(a,b):
     print(a+b)
 
-def mul(a,b):
-    print(a*b)
+
+
+"""
+
+I am currently working dividation and subtraction process
+
+"""
 
 inp=input("Which opertaion you want to perform : ")
 
