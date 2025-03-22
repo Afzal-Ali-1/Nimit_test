@@ -1,2 +1,1 @@
-print("Hi Afzal")
-print("Hi Nimit Sharma")
+"This is a test file only"
